@@ -1,4 +1,5 @@
-# Privacy Policy
+# Privacy Policy 
+
 
 DailyQuest does not collect any personally identifiable information.
 
